@@ -19,8 +19,6 @@ I enjoy turning raw data into clear insights through data cleaning, analysis, an
 
 - Hotel Demand Analysis
 - Cybersecurity Data Analysis
-- Automotive Market Analysis
-- Customer & Product Analysis
 
 ### 🌱 Currently Learning
 
